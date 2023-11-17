@@ -1,0 +1,159 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #434455;
+    background-color: #FFF;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.logo {
+    color: #4D5AE5;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+
+.logo-top {
+    color: #2E2F42;
+}
+
+.menu {
+    list-style-type: none;
+}
+
+.menu-item {
+    color: #2e2f42;
+}
+
+.menu-link {
+    color: #2e2f42;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.address-link {
+    color: #434455;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.menu-link:hover,
+.menu-link:focus,
+.address-link:hover,
+.address-link:focus {
+    color: #404BBF;
+}
+
+.site-address {
+    font-size: 16px;
+    font-style: normal;
+}
+
+.title-page {
+    background-color: #2E2F42;
+}
+
+.title {
+    color: #FFF;
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+}
+
+.order-page {
+    color: #FFF;
+    background-color: #4D5AE5;
+    font-weight: 500;
+    line-height: 1.5;
+    cursor: pointer;
+    letter-spacing: 0.04em;
+}
+
+.order-page:hover {
+    background-color: #404BBF;
+}
+
+.order-page:hover,
+.order-page:focus {
+    background-color: #404BBF;
+}
+
+.team-title {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+.portfolio-title {
+    color: #2e2f42;
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+}
+
+.benefits-title {
+    color: #2e2f42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+
+.team-list {
+    color: #2e2f42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+
+.projects-list {
+    color: #2e2f42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+
+.text-page {
+    color: #434455;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.personnel-page {
+    background-color: #F4F4FD;
+}
+
+.menu-our-team {
+    background-color: #FFF;
+}
+
+.page-bottom {
+    background-color: #2E2F42;
+    color: #F4F4FD;
+}
+
+.logo-bottom {
+    color: #F4F4FD;
+}
+
+.text-bottom {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
