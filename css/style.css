@@ -247,8 +247,8 @@ button {
     gap: 24px;
 }
 
-.menu-team:first-child {
-    width: calc((100%-72px)/4);
+.menu-our-team {
+    width: calc((100% - 72px)/4);
 }
 
 .menu-our-team {
