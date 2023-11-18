@@ -88,7 +88,6 @@ button {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     margin-right: 76px;
-    display: inline-block;
 }
 
 .logo-top {
@@ -250,7 +249,7 @@ button {
 }
 
 .menu-team:first-child {
-    width: calc((100% - 72px) / 4);
+    width: calc((100%- 72px) / 4);
 }
 
 .menu-our-team {
@@ -339,18 +338,13 @@ button {
     padding: 100px 0;
 }
 
-.bottom-container {
-    display: flex;
-    justify-content: flex-start;
-    flex-direction: column;
-}
-
 .logo-bottom {
     color: #F4F4FD;
 }
 
 .logo-footer {
     margin-bottom: 16px;
+    display: inline-block;
 }
 
 .text-bottom {
