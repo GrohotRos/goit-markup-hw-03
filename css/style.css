@@ -216,7 +216,7 @@ button {
 }
 
 .benefits-item {
-    width: calc((100%-3*24px)/4);
+    width: calc((100% - 3 * 24px) / 4);
 }
 
 .text-page {
